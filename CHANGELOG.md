@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.4.4](https://github.com/mdn/fred/compare/v2.4.3...v2.4.4) (2026-04-20)
+
+
+### Miscellaneous
+
+* **deps-dev:** bump @codemirror/view from 6.41.0 to 6.41.1 in the npm-dev group ([#1494](https://github.com/mdn/fred/issues/1494)) ([06be168](https://github.com/mdn/fred/commit/06be168411bf3efe7a38bc6a291e9a91b1b6c309))
+* **deps-dev:** bump @codemirror/view in the npm-dev group ([06be168](https://github.com/mdn/fred/commit/06be168411bf3efe7a38bc6a291e9a91b1b6c309))
+* **deps-dev:** bump npm from 11.6.2 to 11.12.1 ([#1490](https://github.com/mdn/fred/issues/1490)) ([fbc5e9a](https://github.com/mdn/fred/commit/fbc5e9a78d5332ade4f99d931011fc681c653f77))
+
 ## [2.4.3](https://github.com/mdn/fred/compare/v2.4.2...v2.4.3) (2026-04-17)
 
 
